@@ -6,7 +6,7 @@ Full Stack Engineering Leader | 13+ Yrs in Cloud Architecture, Product Delivery 
 
 ## About Me
 
-I'm a hands-on engineering leader who thrives at the intersection of **code, people, and product**. Over the past 12+ years, I’ve built, led, and scaled full-stack applications and cloud-native systems from scratch - while managing distributed teams, project roadmaps, and investor expectations.
+I'm a hands-on engineering leader who thrives at the intersection of **code, people, and product**. Over the past 13+ years, I’ve built, led, and scaled full-stack applications and cloud-native systems from scratch - while managing distributed teams, project roadmaps, and investor expectations.
 
 At the core, I'm a **builder** - but I bring more than just code to the table:
 - Led cross-functional teams (engineering, QA, product) across time zones  
