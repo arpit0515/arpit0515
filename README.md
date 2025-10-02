@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/617d6d6f-974e-4119-bef5-ca0f98e2bed5" width="200" />
+
 # 👋 Hi, I'm Arpit Thukral
 
 Full Stack Engineering Leader | 13+ Yrs in Cloud Architecture, Product Delivery & Scalable Systems | Built & Scaled 5+ Microservices Platforms
