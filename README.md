@@ -64,16 +64,10 @@ Form-driven inspection app with customizable workflows, multi-role access, and a
 
 ---
 
-### FloatPost.ai
-**Smart Social Media Post Management for Businesses**  
-A SaaS platform to simplify and automate social media post scheduling, engagement tracking, and audience interaction. Features include:
-- Post Scheduling & Automation across multiple platforms  
-- Comment Tracking with Sentiment Analysis  
-- Automated Response System to boost engagement  
-- Content Insights via AI-driven analytics  
-
-Ideal for small businesses and social teams aiming to improve social media ROI with minimal manual work.  
-> `Tech:` Next.js · FastAPI · Supabase · OpenAI · Tailwind  
+### [FloatPost.ai](https://floatpost.ai)
+**Share tabs as workspaces**
+FloatPost's single purpose is to capture browser tabs with screenshots and create shareable visual workspace links. Users can select tab groups or windows, and FloatPost captures screenshots of each tab, then generates a shareable URL where recipients can view all tabs visually with clickable links to the original pages.
+> `Tech:` Chrome Extension · Typescript · API
 
 ---
 
