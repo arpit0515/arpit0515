@@ -66,7 +66,7 @@ Form-driven inspection app with customizable workflows, multi-role access, and a
 
 ### [FloatPost.ai](https://floatpost.ai)
 
-**Share tabs as workspaces**
+**Share tabs as workspaces**  
 FloatPost's single purpose is to capture browser tabs with screenshots and create shareable visual workspace links. Users can select tab groups or windows, and FloatPost captures screenshots of each tab, then generates a shareable URL where recipients can view all tabs visually with clickable links to the original pages.
 > `Tech:` Chrome Extension · Typescript · API
 
