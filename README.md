@@ -31,50 +31,21 @@
 ## 🚀 Working On
 
 
-### 🤳 Storey - AI Powered Content Creator Storefront  
-https://storey.live  
+🤳 **[Storey.live](https://storey.live)** `FastAPI · Typescript · Supabase · Stripe · Vercel · Fly.io`  
+AI Powered Content Creator Storefront - AI-powered storefronts that personalize engagement, automate delivery, and turn creator workflows into intelligent systems. 
 
-AI-powered storefronts that personalize engagement, automate delivery, and turn creator workflows into intelligent systems.  
+🧠 **[BizScanner](https://bizscanner.app)** `FastAPI · Next.js · Supabase · Stripe · Fly.io`  
+AI-powered audit engine that generates structured PDF reports for SMBs. Multi-step reasoning → API orchestration → scoring engine → formatted export.  
 
-`FastAPI · Typescript · Supabase · Stripe · Vercel · Fly.io`
+🔍 **[Observability & API Discovery](addbeacon.com)** `FastAPI · PostgreSQL · Redis · WebSockets`   
+Developer-first observability layer for FastAPI services. Auto-discovers endpoints, tracks metrics, replays traces, and surfaces performance patterns.  
 
----
+🏢 **[Valuation Platform](https://proofin.ai)** `FastAPI · React · Supabase · S3 · Fly.io`  
+Inspection + valuation platform with role-based workflows and automated PDF exports. Designed for compliance-heavy environments. 
 
-### 🧠 BizScanner - AI Business Audit SaaS  
-https://bizscanner.app  
+🌐 **[FloatPost.ai](https://floatpost.ai)** `TypeScript · Chrome Extension · API`  
+Browser extension that captures live tab states and generates shareable visual workspaces.
 
-AI-powered audit engine that generates structured PDF reports for SMBs.  
-Multi-step reasoning → API orchestration → scoring engine → formatted export.  
-
-`FastAPI · Next.js · Supabase · Stripe · Fly.io`
-
----
-
-### 🔍 API Mapper - API Observability Middleware  
-⏳ addbeacon.com    
-Developer-first observability layer for FastAPI services.  
-Auto-discovers endpoints, tracks metrics, replays traces, and surfaces performance patterns.  
-
-`FastAPI · PostgreSQL · Redis · WebSockets`
-
----
-
-### 🏢 Valuation Platform - Workflow & Reporting System  
-https://proofin.ai
-
-Inspection + valuation platform with role-based workflows and automated PDF exports.  
-Designed for compliance-heavy environments.  
-
-`FastAPI · React · Supabase · S3 · Fly.io `
-
----
-
-### 🌐 FloatPost.ai - Visual Workspace Sharing  
-https://floatpost.ai  
-
-Browser extension that captures live tab states and generates shareable visual workspaces.  
-
-`TypeScript · Chrome Extension · API`
 
 ---
 
