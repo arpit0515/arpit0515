@@ -31,7 +31,7 @@
 ## 🚀 Working On
 
 
-### 🧠 Storey - AI Powered Content Creator Storefront  
+### 🤳 Storey - AI Powered Content Creator Storefront  
 https://storey.live  
 
 AI-powered storefronts that personalize engagement, automate delivery, and turn creator workflows into intelligent systems.  
