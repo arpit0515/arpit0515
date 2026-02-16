@@ -1,5 +1,5 @@
 
-# 👋 Arpit Thukral
+# 👋 I am Arpit Thukral
 
 **AI Systems Engineer · Cloud Architect · Full-Stack Engineering Leader**  
 13+ years building scalable cloud systems and shipping production SaaS.
