@@ -30,6 +30,11 @@
 
 ## 🚀 Working On
 
+🦞 **[Claw Setup Wizard](https://github.com/arpit0515/claw-setup-wizard)** `Go · HTML · Shell`  
+Browser-based setup wizard for PicoClaw/OpenClaw on Raspberry Pi or any Linux machine. Walks through system checks, LLM provider config, Telegram bot setup, and agent personality generation - zero JSON editing, zero terminal juggling. Self-contained binary with embedded UI.  
+
+⚡ **[WattSpot](https://wattspot.ca)**  
+Showcase platform for WattSpot - a larger vision around EV infrastructure, connecting drivers with smart charging solutions.  
 
 🤳 **[Storey.live](https://storey.live)** `FastAPI · Typescript · Supabase · Stripe · Vercel · Fly.io`  
 AI Powered Content Creator Storefront - AI-powered storefronts that personalize engagement, automate delivery, and turn creator workflows into intelligent systems. 
