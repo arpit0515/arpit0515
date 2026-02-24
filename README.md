@@ -30,8 +30,11 @@
 
 ## 🚀 Working On
 
-🦞 **[Claw Setup Wizard](https://github.com/arpit0515/claw-setup-wizard)** `Go · HTML · Shell`  
-Browser-based setup wizard for PicoClaw/OpenClaw on Raspberry Pi or any Linux machine. Walks through system checks, LLM provider config, Telegram bot setup, and agent personality generation - zero JSON editing, zero terminal juggling. Self-contained binary with embedded UI.  
+🦞 **[Claw-Tools.dev](https://claw-tools.dev)** `Go · Shell`  
+Open-source MCP tool connectors for AI agents. Clone the repo, run `./install.sh`, pick tools from an interactive terminal UI - Gmail, Google Calendar, Outlook and more. Each tool runs as an MCP server (Cursor, Claude Code, Windsurf) or HTTP server (PicoClaw, custom agents). Runs on your own hardware, tokens stay local.
+
+🧙 **[Claw Setup Wizard](https://github.com/arpit0515/claw-setup-wizard)** `Go · HTML · Shell`  
+Browser-based setup wizard for PicoClaw/OpenClaw on Raspberry Pi or any Linux machine. Walks through system checks, LLM provider config, Telegram bot setup, and agent personality generation - zero JSON editing, zero terminal juggling. Self-contained binary with embedded UI. Integrates with ClawTools for MCP tool installation.
 
 ⚡ **[WattSpot](https://wattspot.ca)**  
 Showcase platform for WattSpot - a larger vision around EV infrastructure, connecting drivers with smart charging solutions.  
